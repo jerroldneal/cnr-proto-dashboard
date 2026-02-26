@@ -1,0 +1,8 @@
+{
+  "name": "cnr-proto-dashboard",
+  "version": "1.0.0",
+  "description": "React 18 real-time protobuf event dashboard for ClubWPT Gold poker",
+  "main": "index.html",
+  "keywords": ["poker", "protobuf", "dashboard", "react", "clubwpt"],
+  "license": "ISC"
+}
