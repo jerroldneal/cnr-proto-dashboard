@@ -1,5 +1,7 @@
 # cnr-proto-dashboard
 
+> **Repo**: [`jerroldneal/cnr-proto-dashboard`](https://github.com/jerroldneal/cnr-proto-dashboard) · **Submodule of**: [`cnr-ws-server`](https://github.com/jerroldneal/cnr-ws-server) at `submodules/cnr-proto-dashboard/`
+
 Real-time protobuf event dashboard for ClubWPT Gold poker. React 18 SPA with four tabs:
 
 - **Feed** — Live decoded protobuf events with topic filtering
